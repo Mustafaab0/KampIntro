@@ -9,5 +9,6 @@
         sayi1 = sayi2;
         sayi2 = 65;
         //sayi1 = 30 sayi2 = 65
+
     }
 }
